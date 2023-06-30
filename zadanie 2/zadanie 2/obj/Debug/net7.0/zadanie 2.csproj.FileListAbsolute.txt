@@ -1,0 +1,5 @@
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 2\zadanie 2\obj\Debug\net7.0\zadanie 2.csproj.AssemblyReference.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 2\zadanie 2\obj\Debug\net7.0\zadanie 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 2\zadanie 2\obj\Debug\net7.0\zadanie 2.AssemblyInfoInputs.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 2\zadanie 2\obj\Debug\net7.0\zadanie 2.AssemblyInfo.cs
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 2\zadanie 2\obj\Debug\net7.0\zadanie 2.csproj.CoreCompileInputs.cache

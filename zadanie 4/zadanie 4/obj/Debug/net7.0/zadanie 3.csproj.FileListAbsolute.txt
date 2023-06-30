@@ -1,0 +1,15 @@
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\bin\Debug\net7.0\zadanie 3.exe
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\bin\Debug\net7.0\zadanie 3.deps.json
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\bin\Debug\net7.0\zadanie 3.runtimeconfig.json
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\bin\Debug\net7.0\zadanie 3.dll
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\bin\Debug\net7.0\zadanie 3.pdb
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.csproj.AssemblyReference.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.AssemblyInfoInputs.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.AssemblyInfo.cs
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.csproj.CoreCompileInputs.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.dll
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\refint\zadanie 3.dll
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.pdb
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\zadanie 3.genruntimeconfig.cache
+E:\Desktop\infa szkoła\projekty\Złożone typy danych\zadanie 3\zadanie 3\obj\Debug\net7.0\ref\zadanie 3.dll
